@@ -1,0 +1,13 @@
+{
+    "name": "abclib",
+    "raw_name": "abclib",
+    "kind": "media",
+    "short": "Spatialization and mixed music Faust libraries",
+    "key": "7b08697a-447c-4768-be03-66bf60615b5c",
+    "license": "LGPL - (c) Alain Bonardi, Paul Goutmann, Stéphane Letz",
+    "size": "4M",
+    "version": 1,
+    "file": "https://github.com/jcelerier/abclib/archive/refs/heads/main.zip",
+    "url": "https://github.com/alainbonardi/abclib"
+}
+

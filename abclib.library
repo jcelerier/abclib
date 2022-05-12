@@ -1,0 +1,14 @@
+[
+  {
+    "folder": "dsp",
+    "filter": "*.dsp",
+    "category": "Audio/Spatial",
+    "tags": [ "audio", "spatialization", "faust", "space", "effect", "fx" ],
+    "map": [
+      { "abc_2d_decoders": "abc/2D decoders" }
+    ],
+    "faust": {
+      "include": ["library"]
+    }
+  }
+]
